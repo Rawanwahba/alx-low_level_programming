@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - nothing on it
-*puts - done
+*main - hello c
+*return - 0
 */
 int main(void)
 {
